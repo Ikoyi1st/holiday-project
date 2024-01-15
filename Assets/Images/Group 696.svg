@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 696" clip-path="url(#clip0_1_3600)">
+<path id="Ellipse 86" opacity="0.3" d="M60 120C93.1371 120 120 93.1371 120 60C120 26.8629 93.1371 0 60 0C26.8629 0 0 26.8629 0 60C0 93.1371 26.8629 120 60 120Z" fill="#F23802"/>
+<path id="Ellipse 220" d="M60 101C82.6437 101 101 82.6437 101 60C101 37.3563 82.6437 19 60 19C37.3563 19 19 37.3563 19 60C19 82.6437 37.3563 101 60 101Z" fill="#F23802"/>
+<path id="Polygon 1" d="M68 60L56 66V54L68 60Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_3600">
+<rect width="120" height="120" fill="white"/>
+</clipPath>
+</defs>
+</svg>
